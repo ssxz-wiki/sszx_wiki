@@ -2,15 +2,15 @@
 title: 宿松中学Wiki
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-26T05:48:35.723Z
+date: 2023-07-26T05:53:08.862Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
 ---
 
-<font face="楷体">
-
-  
+  <table>
+    <tr>
+        <td bgcolor=#D1EEEE>
 # 宿松中学维基百科
 
 这里是**起始页**
@@ -42,5 +42,6 @@ dateCreated: 2023-07-25T07:24:32.774Z
 让我摆会…
   
 
-  
-</font>
+
+    </tr>
+</table>
