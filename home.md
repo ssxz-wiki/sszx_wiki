@@ -2,7 +2,7 @@
 title: 宿松中学Wiki
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-26T05:00:27.726Z
+date: 2023-07-26T05:20:09.736Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -16,9 +16,11 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 不乏即将进入校园的新高一们，也有着不知累死累活的卷狗们 . . .
 
-新高一的同学们可以来看[学校介绍](home/学校介绍)
+新高一的同学们可以来看Here→[**学校介绍**](home/学校介绍)
 
 欢迎来自宿中的各位同学参与到宿中**Wiki**的建设中来~
+
+<span class="heimu" title="都是玩笑啦">，</span>
 
 
 
