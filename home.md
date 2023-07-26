@@ -2,7 +2,7 @@
 title: 宿松中学Wiki
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-26T07:15:45.741Z
+date: 2023-07-26T07:16:53.332Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -40,5 +40,5 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 联系qq群：[]
 
-
+2023年7月25日.
 **███████████████**<span class="heimu" title="你知道的太多了">被发现辣</span>**███████████████**
