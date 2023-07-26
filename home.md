@@ -2,7 +2,7 @@
 title: 宿松中学Wiki
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-26T05:20:09.736Z
+date: 2023-07-26T05:23:21.252Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -20,7 +20,7 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 欢迎来自宿中的各位同学参与到宿中**Wiki**的建设中来~
 
-<span class="heimu" title="都是玩笑啦">，</span>
+<span class="heimu" title="你知道的太多了">阿巴巴</span>
 
 
 
