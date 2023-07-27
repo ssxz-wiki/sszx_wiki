@@ -2,13 +2,13 @@
 title: 宿松中学Wiki
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-27T01:34:22.995Z
+date: 2023-07-27T01:38:03.774Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
 ---
 
-# 宿松中学维基百科
+# 宿松中学维基百科<font color=gray size=2>sszx.wiki
 
 >千里之行，始于足下
 这里是**起始页** 。
@@ -28,7 +28,7 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 有意投稿者，请跳转至[公告栏](公告栏)
 
-欢迎来自宿中的各位同学参与到宿中**Wiki**的建设中来~
+欢迎来自宿中的各位同学参与到宿松中学</font>·<font color=deepgold size=3>W</font><font color=purple size=3>i</font><font color=red size=3>k</font><font color=blue size=3>i</font>的建设中来~
 
 ***_下面，开始生成专属于宿中的Wiki！_***
 
@@ -52,4 +52,6 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 
 #### 关于遮挡黑幕<span class="heimu" title="你知道的太多了">黑幕</span>
-你是否发现，在本wiki的许多地方，你能够
+
+细心的你是否发现，在本wiki的许多地方，你能够发现一块一块的黑块█ █
+
