@@ -2,7 +2,7 @@
 title: 宿松中学Wiki
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-27T02:15:40.011Z
+date: 2023-07-27T02:19:07.406Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -103,5 +103,10 @@ tips:手机端点击黑幕部分，电脑端将鼠标悬停在黑幕上即可解
 
 
 ---
-最初黑幕模板是效仿英语维基百科，用于那些可能会涉及到剧情的段落，避免剧透。后来逐渐被用于吐槽<span class="heimu" title="你知道的太多了">(向我看齐）</span>
+最初的黑幕模板是效仿英语维基百科，用于那些可能会涉及到剧情的段落，避免剧透。后来逐渐被用于吐槽<span class="heimu" title="你知道的太多了">(向我看齐）</span>
+
+本站采用黑幕来组成同学们的吐槽部分
+<span class="heimu" title="你知道的太多了">我来组成氧化钙</span>
+<span class="heimu" title="你知道的太多了">我来组成有趣的内容</span>
+Over！
 </font>
