@@ -2,7 +2,7 @@
 title: 宿松中学Wiki(施工中)
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-27T05:05:58.044Z
+date: 2023-07-27T05:09:27.449Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -27,7 +27,7 @@ dateCreated: 2023-07-25T07:24:32.774Z
 <br>tips:手机端目录在左下角三条杠那里，电脑端目录在左侧~ 
 ─=≡Σ(((つ•̀ω•́)つ
 
-<br><span class="heimu" title="你知道的太多了">看不到我(๑╹◡╹)ﾉ"""~</span>
+<br><span class="heimu" title="被发现了吗">看不到我(๑╹◡╹)ﾉ"""~</span>
 
 ---
 ---
@@ -66,7 +66,7 @@ dateCreated: 2023-07-25T07:24:32.774Z
 **███████████████**<span class="heimu" title="你知道的太多了">被发现辣</span>**███████████████**
 
 
-### 关于遮挡黑幕<span class="heimu" title="你知道的太多了">黑幕</span>
+### 关于遮挡黑幕<span class="heimu" title="一块普普通通的黑幕">黑幕</span>
 <font color=gray>
 细心的你是否发现，在本wiki的许多地方，你能够发现一块一块的黑块█ █
 
@@ -74,8 +74,8 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 黑幕的发明可谓是“没啥用”
 
-当然，你可以尝试用手抠<span class="heimu" title="你知道的太多了">←←递刀片</span>
-<span class="heimu" title="你知道的太多了">你过来啊</span>
+当然，你可以尝试用手抠<span class="heimu" title="请输入你的门牌号">←←递刀片</span>
+<span class="heimu" title="来，用刀片刮，请温柔点">你过来啊</span>
 
 ↓
 
@@ -87,7 +87,7 @@ emmm...
 
 没事，屏幕没坏(ﾉ"◑ ◑)ﾉ"(｡•́︿•̀｡)
 
-它就是几行代码而已doge<span class="heimu" title="你知道的太多了">手动滑稽</span>
+它就是几行代码而已doge<span class="heimu" title="狗头">手动滑稽</span>
 </font>
 ### 介绍一下
 <font color=gray>
@@ -95,14 +95,14 @@ emmm...
 
 当你把鼠标移到了黑幕上，一些 <u>神奇的事情</u> 就会发生……
 
-tips:手机端点击黑幕部分，电脑端将鼠标悬停在黑幕上即可解锁隐藏的秘密 <span class="heimu" title="你知道的太多了">付费内容？！</span>
+tips:手机端点击黑幕部分，电脑端将鼠标悬停在黑幕上即可解锁隐藏的秘密 <span class="heimu" title="你知道的太多了，拿出去毙了">付费内容？！</span>
 </font>
 ### 示例
 ███████████████
 <font color=gray>不用抠了，上面这行抠不掉#手动狗头</font>
 
 ### 用处
-<font color=gray>当然是隐藏一些<span class="heimu" title="你知道的太多了">见不得人</span>的话啦！
+<font color=gray>当然是隐藏一些<span class="heimu" title="黑，真™的黑啊">见不得人</span>的话啦！
 
 ~~不过这样也可以让人很好奇呢！~~
 
@@ -110,10 +110,10 @@ tips:手机端点击黑幕部分，电脑端将鼠标悬停在黑幕上即可解
 ![例子](https://img2018.cnblogs.com/i-beta/1705211/202002/1705211-20200224020413077-3370159.png)
 
 ---
-最初的黑幕模板是效仿英语维基百科，用于那些可能会涉及到剧情的段落，避免剧透。后来逐渐被用于吐槽<span class="heimu" title="你知道的太多了">(向我看齐）</span>
+最初的黑幕模板是效仿英语维基百科，用于那些可能会涉及到剧情的段落，避免剧透。后来逐渐被用于吐槽<span class="heimu" title="我宣布个事儿，我是个帅b">(向我看齐）</span>
 
 本站采用黑幕来组成同学们的吐槽部分
-<span class="heimu" title="你知道的太多了">我来组成氧化钙</span>
-<span class="heimu" title="你知道的太多了">我来组成有趣的内容</span>
+<span class="heimu" title="Cao">我来组成氧化钙</span>
+<span class="heimu" title="(⊙o⊙)…">我来组成有趣的内容</span>
 Over！
 </font>
