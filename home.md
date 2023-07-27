@@ -2,7 +2,7 @@
 title: 宿松中学Wiki
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-27T01:38:03.774Z
+date: 2023-07-27T01:54:06.194Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -10,8 +10,8 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 # 宿松中学维基百科<font color=gray size=2>sszx.wiki
 
->千里之行，始于足下
-这里是**起始页** 。
+>千里之行，始于足下</font>
+这里是**起始页** 
 
 
 这，是一个开始，也是一个同学们认识宿中的一个<font color=orange>**新起点**</font> 。
@@ -51,7 +51,27 @@ dateCreated: 2023-07-25T07:24:32.774Z
 **███████████████**<span class="heimu" title="你知道的太多了">被发现辣</span>**███████████████**
 
 
-#### 关于遮挡黑幕<span class="heimu" title="你知道的太多了">黑幕</span>
-
+### 关于遮挡黑幕<span class="heimu" title="你知道的太多了">黑幕</span>
+<font color=gray>
 细心的你是否发现，在本wiki的许多地方，你能够发现一块一块的黑块█ █
 
+虽然貌似挡住了什么，但是也不影响阅读 . . .
+
+黑幕的发明可谓是“没啥用”
+  
+当然，你可以尝试用手抠<span class="heimu" title="你知道的太多了">←←递刀片</span>
+  
+<span class="heimu" title="你知道的太多了">你过来啊</span>
+  
+emmm
+  
+没事，屏幕没坏(ﾉ"◑ ◑)ﾉ"(｡•́︿•̀｡)
+
+它就是几行代码而已doge<span class="heimu" title="你知道的太多了">手动滑稽</span>
+</font>
+### 介绍一下
+<font color=gray>
+不动它，它就是个黑条子。你盯着它看什么都不会发生。
+
+当你把鼠标移到了黑幕上，一些神奇的事情就会发生……
+</font>
