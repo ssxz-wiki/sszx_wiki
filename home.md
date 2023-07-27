@@ -2,39 +2,32 @@
 title: 宿松中学Wiki(施工中)
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-27T02:33:28.185Z
+date: 2023-07-27T05:05:58.044Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
 ---
 
 # 宿松中学维基百科<font color=gray size=2>sszx.wiki
-
 >千里之行，始于足下</font>
 这里是**起始页** 
 
-
 这，是一个开始，也是一个同学们认识宿中的一个<font color=orange>**新起点**</font> 。
+<br>什么？你不知道这个站？<span class="heimu" title="没用了，修修吧">屏幕坏了</span>
+<br>再重复一遍：这里是<font color=#3333FF size=5>宿松中学</font>·<font color=deepgold size=5>W</font><font color=purple size=5>i</font><font color=red size=5>k</font><font color=blue size=5>i</font><span class="heimu" title="关音菩萨已为您自动消音">（超大声）</span>
+<br>首先，**欢迎高一的新生们**,在这里你们将能够提前认识和了解我们学校，我们有[**学校介绍**](home/学校介绍)和[**宿中生存指南I**](home/宿中生存指南I)栏目可以为迷茫的孩子们指明在宿中生存的方式
+<br>在校生们和毕业的校友们也能在这里看到宿中的新变化
+<br>开始前，你需要阅读[本站须知](home/关于)
+<br>有意投稿者，请跳转至[公告栏](公告栏)
+<br>欢迎来自宿中的各位同学参与到宿松中学</font>·<font color=deepgold size=3>W</font><font color=purple size=3>i</font><font color=red size=3>k</font><font color=blue size=3>i</font>的建设中来~
+<br>***_下面，开始生成专属于宿中的Wiki！_***
 
-什么？你不知道这个站？<span class="heimu" title="你知道的太多了">屏幕坏了</span>
+<br>2023年7月25日.
 
-再重复一遍：这里是<font color=#3333FF size=5>宿松中学</font>·<font color=deepgold size=5>W</font><font color=purple size=5>i</font><font color=red size=5>k</font><font color=blue size=5>i</font><span class="heimu" title="你知道的太多了">（超大声）</span>
+<br>tips:手机端目录在左下角三条杠那里，电脑端目录在左侧~ 
+─=≡Σ(((つ•̀ω•́)つ
 
-首先，**欢迎高一的新生们**,在这里你们将能够提前认识和了解我们学校，我们有[**学校介绍**](home/学校介绍)和[**宿中生存指南I**](home/宿中生存指南I)栏目可以为迷茫的孩子们指明在宿中生存的方式
-
-在校生们和毕业的校友们也能在这里看到宿中的新变化
-
-开始前，你需要阅读[本站须知](home/关于)
-
-有意投稿者，请跳转至[公告栏](公告栏)
-
-欢迎来自宿中的各位同学参与到宿松中学</font>·<font color=deepgold size=3>W</font><font color=purple size=3>i</font><font color=red size=3>k</font><font color=blue size=3>i</font>的建设中来~
-
-***_下面，开始生成专属于宿中的Wiki！_***
-
-2023年7月25日.
-
-<span class="heimu" title="你知道的太多了">看不到我(๑╹◡╹)ﾉ"""~</span>
+<br><span class="heimu" title="你知道的太多了">看不到我(๑╹◡╹)ﾉ"""~</span>
 
 ---
 ---
@@ -80,9 +73,8 @@ dateCreated: 2023-07-25T07:24:32.774Z
 虽然貌似挡住了什么，但是也不影响阅读 . . .
 
 黑幕的发明可谓是“没啥用”
-  
+
 当然，你可以尝试用手抠<span class="heimu" title="你知道的太多了">←←递刀片</span>
-  
 <span class="heimu" title="你知道的太多了">你过来啊</span>
 
 ↓
@@ -92,7 +84,7 @@ dateCreated: 2023-07-25T07:24:32.774Z
 ↓
 
 emmm...
-  
+
 没事，屏幕没坏(ﾉ"◑ ◑)ﾉ"(｡•́︿•̀｡)
 
 它就是几行代码而已doge<span class="heimu" title="你知道的太多了">手动滑稽</span>
