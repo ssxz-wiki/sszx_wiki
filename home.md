@@ -2,7 +2,7 @@
 title: 宿松中学Wiki
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-27T01:56:12.054Z
+date: 2023-07-27T01:57:03.659Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -16,7 +16,7 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 这，是一个开始，也是一个同学们认识宿中的一个<font color=orange>**新起点**</font> 。
 
-什么？你不知道这个站？
+什么？你不知道这个站？<span class="heimu" title="你知道的太多了">屏幕坏了</span>
 
 再重复一遍：这里是<font color=#3333FF size=5>宿松中学</font>·<font color=deepgold size=5>W</font><font color=purple size=5>i</font><font color=red size=5>k</font><font color=blue size=5>i</font><span class="heimu" title="你知道的太多了">（超大声）</span>
 
