@@ -2,7 +2,7 @@
 title: 宿松中学Wiki(施工中)
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-27T05:32:06.137Z
+date: 2023-07-27T05:34:45.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -26,7 +26,7 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 <br>tips:手机端目录在左下角三条杠那里，电脑端目录在左侧~ 
 ─=≡Σ(((つ•̀ω•́)つ
-![3f79b7a62027a711c5eab55b5d3ff80c.png](https://imgmo.com/images/2023/07/27/3f79b7a62027a711c5eab55b5d3ff80c.png)
+![e8bc78e2954caca937f16950b2aa72ba.png](https://imgmo.com/images/2023/07/27/e8bc78e2954caca937f16950b2aa72ba.png)
 <br><span class="heimu" title="被发现了吗">看不到我(๑╹◡╹)ﾉ"""~</span>
 
 ---
