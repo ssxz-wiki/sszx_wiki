@@ -2,7 +2,7 @@
 title: 宿松中学Wiki(施工中)
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-07-27T05:34:45.401Z
+date: 2023-07-27T05:38:57.905Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -22,9 +22,9 @@ dateCreated: 2023-07-25T07:24:32.774Z
 <br>欢迎来自宿中的各位同学参与到宿松中学</font>·<font color=deepgold size=3>W</font><font color=purple size=3>i</font><font color=red size=3>k</font><font color=blue size=3>i</font>的建设中来~
 <br>***_下面，开始生成专属于宿中的Wiki！_***
 
-<br>2023年7月25日.
+<br>**2023年7月25日.**
 
-<br>tips:手机端目录在左下角三条杠那里，电脑端目录在左侧~ 
+<br>***tips***:手机端目录在左下角三条杠那里，电脑端目录在左侧~ 
 ─=≡Σ(((つ•̀ω•́)つ
 ![e8bc78e2954caca937f16950b2aa72ba.png](https://imgmo.com/images/2023/07/27/e8bc78e2954caca937f16950b2aa72ba.png)
 <br><span class="heimu" title="被发现了吗">看不到我(๑╹◡╹)ﾉ"""~</span>
@@ -63,7 +63,8 @@ dateCreated: 2023-07-25T07:24:32.774Z
 ---
 ---
 
-**███████████████**<span class="heimu" title="你知道的太多了">被发现辣</span>**███████████████**
+**████████████**
+**██████**<span class="heimu" title="你知道的太多了">被发现辣</span>
 
 
 ### 关于遮挡黑幕<span class="heimu" title="一块普普通通的黑幕">黑幕</span>
