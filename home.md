@@ -2,7 +2,7 @@
 title: 宿松中学Wiki(施工中)
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-08-08T09:59:02.494Z
+date: 2023-08-08T09:59:34.439Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -14,7 +14,8 @@ dateCreated: 2023-07-25T07:24:32.774Z
 
 这，是一个开始，也是一个同学们认识宿中的一个<font color=orange>**新起点**</font> 。
 <br>什么？你不知道这个站？
-<br>再重复一遍：这里是<font color=#3333FF size=5>宿松中学</font>·<font color=deepgold size=5>W</font><font color=purple size=5>i</font><font color=red size=5>k</font><font color=blue size=5>i</font><span class="heimu" title="关音菩萨已为您自动消音">（超大声）</span>
+<br>再重复一遍：这里是<font color=#3333FF size=5>宿松中学</font>·<font color=deepgold size=5>W</font><font color=purple size=5>i</font><font color=red size=5>k</font><font color=blue size=5>i</font>
+<span class="heimu" title="关音菩萨已为您自动消音">（超大声）</span>
 <br>首先，**欢迎高一的新生们**,在这里你们将能够提前认识和了解我们学校，我们有[**学校介绍**](home/学校介绍)和[**宿中生存指南I**](home/宿中生存指南I)栏目可以为迷茫的孩子们指明在宿中生存的方式
 <br>在校生们和毕业的校友们也能在这里看到宿中的新变化
 <br>开始前，你需要阅读[本站须知](home/关于)
