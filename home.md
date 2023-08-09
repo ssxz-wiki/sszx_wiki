@@ -2,7 +2,7 @@
 title: 宿松中学Wiki(施工中)
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-08-09T02:39:50.249Z
+date: 2023-08-09T02:40:19.087Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
@@ -127,7 +127,7 @@ tips:手机端点击黑幕部分，电脑端将鼠标悬停在黑幕上即可解
 <span class="heimu" title="Cao">我来组成氧化钙</span>
 <span class="heimu" title="(⊙o⊙)…">我来组成有趣的内容</span>
 Over！
-</font>
 
 + 最后一条小提示：随处可见小彩蛋~
 (’∇’)シ┳━┳
+</font>
