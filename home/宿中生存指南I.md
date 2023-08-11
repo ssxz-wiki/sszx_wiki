@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-11T01:53:59.258Z
+date: 2023-08-11T01:58:29.326Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -11,6 +11,7 @@ dateCreated: 2023-07-26T02:34:23.716Z
 # <font face='楷体'><br>宿松中学 生存指南I
   + 欢迎来到<ruby>**宿松中学**<rt><ruby>不 是<font color=red> 地 狱</font><rt><font color=orange>天 堂</font></ruby></ruby>**生存指南**！
   + 这是一个为新高一同学准备的宿中入坑指南,能够帮助同学们有效<u>**避坑**</u>
+
 版次：2023年8月版
 编者：<span class="heimu" title="其实是███啦">--未解密--</span>
   完成进度：<font color=green>1%</font>
@@ -39,5 +40,13 @@ dateCreated: 2023-07-26T02:34:23.716Z
 
 # 篇外·假期、军训
 
+# 篇一·校园
 
+# 篇二·食堂
+
+# 篇三·住宿
+
+# 篇四·社团
+
+# 篇五·学校活动
 </font>
