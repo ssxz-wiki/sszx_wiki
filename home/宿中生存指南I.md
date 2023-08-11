@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-11T02:48:44.340Z
+date: 2023-08-11T02:49:38.101Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -24,7 +24,7 @@ dateCreated: 2023-07-26T02:34:23.716Z
 
 建议使用电脑查看本页面，因为电脑会在侧边生成跳转[目录](/home/宿中生存指南I#目录)。<br><span class="heimu" title='喂，看得见吗？看得见吗？你能看到吧(#`O′)'>当然手机也能阅览~</span>
 
-关于**黑幕**的食用说明:详见[起始页](sszx.wiki)
+关于**黑幕**的食用说明:详见[起始页](https://sszx.wiki)
 ~（自己找彩蛋去）~
 
 # 目录
