@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-11T02:29:00.684Z
+date: 2023-08-11T02:48:44.340Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -20,9 +20,9 @@ dateCreated: 2023-07-26T02:34:23.716Z
 本文由宿松中学在校生与毕业校友提供支持。
   与校内官方和校外机构等统统都<font color=gray>没有关系</font>。
 
-加入群聊[【宿中WiKi编辑部】](https://qm.qq.com/cgi-bin/qm/qr?k=EwQgXsyOcX-WKSybkAPortmqktHhKTQI&jump_from=webapi&authKey=jCy7xGfxsmMkYBvLunub0IXn39Y+qrCPmZgSLgpgrHJlgXrXRqJlauQU9KpDjbaM)即可参与到下一版<font color=red size=5 face='微软雅黑'>*《宿中生存指南》*</font>的编写！
+加入群聊[【宿中WiKi编辑部】](https://qm.qq.com/cgi-bin/qm/qr?k=EwQgXsyOcX-WKSybkAPortmqktHhKTQI&jump_from=webapi&authKey=jCy7xGfxsmMkYBvLunub0IXn39Y+qrCPmZgSLgpgrHJlgXrXRqJlauQU9KpDjbaM)即可参与到下一版<font color=red size=5 face='楷体'>*《宿中生存指南》*</font>的编写！
 
-建议使用电脑查看本页面，因为电脑会在侧边生成跳转[目录](/home/宿中生存指南I#目录)。<br><span class="heimu" title="喂，看得见吗？看得见吗？你能看到吧(#`O′)">当然手机也能阅览~</span>
+建议使用电脑查看本页面，因为电脑会在侧边生成跳转[目录](/home/宿中生存指南I#目录)。<br><span class="heimu" title='喂，看得见吗？看得见吗？你能看到吧(#`O′)'>当然手机也能阅览~</span>
 
 关于**黑幕**的食用说明:详见[起始页](sszx.wiki)
 ~（自己找彩蛋去）~
@@ -41,7 +41,24 @@ dateCreated: 2023-07-26T02:34:23.716Z
 
 # 篇外·假期和军训
 ## 假期
+### 注意事项：
+<center>
+  <b>
+    <br><br>
+  <font title=星穹铁道，启动！ face="楷体" size=5 color=	#FFC125>「愿此行，终抵宿中」
+  </font>
+  <br><br>
+  <font title=什么，你也玩原神？ face="宋体" size=5 color= 	#FFA54F>“只要不失去你的录取通知书，整个宿中都会向你敞开”
+  </font>
+  </b>
+</center>
 
+### 做些什么
+假期中，你将会收到一份邮政的包裹
+
+那么
+
+恭喜获得：宿中<font color=red>录取通知书</font>×1 、<font color=blue>假期作业</font>×1、假期学习群聊二维码一张×1、升学e网通会员一个月体验卡×1
 
 # 篇一·校园
 
