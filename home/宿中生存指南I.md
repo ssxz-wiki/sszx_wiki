@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-14T09:35:55.810Z
+date: 2023-08-14T10:21:21.636Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -121,8 +121,7 @@ dateCreated: 2023-07-26T02:34:23.716Z
 运动量大的时候喝<font color=green>**温水**</font>更好，想喝饮料也不要喝<ruby>冰镇<rt>🥶🥶</ruby>的，避免意外发生。( •̀ ω •́ )✧
 <br><font color=gray>^tips:教官碰到卖雪糕的有概率请客^</font>
 ### 3 . 勤换衣服
-军训的服装是有两套的，速干，基本上是够用的
-甚至可以一天换两套<font color=gray>^（关键是要洗）^</font>
+军训的服装是速干的，每天都要换（废话）<font color=gray>^（关键是要洗）^</font>
 ps：不要小看宿中夏日最后的炎热
 ### 4 . Enjoy
 珍惜这几天没有作业的宿中生活吧，诸位！
