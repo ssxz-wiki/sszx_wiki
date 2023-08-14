@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-14T02:55:13.978Z
+date: 2023-08-14T02:56:12.781Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -68,5 +68,5 @@ dateCreated: 2023-07-26T02:34:23.716Z
 # 篇三·住宿
 
 # 篇四·社团
-[学生会](home/社团#学生会)
+[学生会](zh/home/社团/学生会)
 # 篇五·学校活动
