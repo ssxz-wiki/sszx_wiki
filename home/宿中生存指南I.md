@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-14T09:32:12.984Z
+date: 2023-08-14T09:35:55.810Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -14,7 +14,7 @@ dateCreated: 2023-07-26T02:34:23.716Z
 
 版次：2023年8月版
 编者：<span class="heimu" title="其实是███啦">--未解密--</span>
-  完成进度：<font color=green>1%</font>
+  完成进度：<font color=green>13.14%</font>
 
 # 前言
 本文由宿松中学在校生与毕业校友提供支持。
