@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-14T07:38:27.097Z
+date: 2023-08-14T07:47:13.929Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -76,4 +76,4 @@ dateCreated: 2023-07-26T02:34:23.716Z
 [足球社](https://sszx.wiki/zh/home/社团/足球社)
 [韶音工作室](https://sszx.wiki/zh/home/社团/韶音社)
 # 篇五·学校活动
-[2023-5-14:2023届宿中学子成年礼暨毕业典礼](学校活动)
+[2023-5-14:2023届宿中学子成年礼暨毕业典礼](https://www.imagehub.cc/image/rWvmZJ)
