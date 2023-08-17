@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-17T09:01:45.228Z
+date: 2023-08-17T09:02:03.868Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -89,7 +89,7 @@ dateCreated: 2023-07-26T02:34:23.716Z
 ## <br>军训
 <font size=2 color=gray>以下内容均为往届学生据自己经历所作，每年可能有所改变~</font>
 ### 评价
-宿中军训还是挺棒的，不会有很大的<ruby>训 练 量<rt><font color=gray>但是真™的热啊</font></ruby>（只有一周时间）<br><font color=red>**注意**！</font>军训，是会被<ruby>晒**黑**<rt>**嘿嘿**</ruby>的
+宿中军训还是挺棒的，不会有很大的<ruby>训 练 量<rt><font color=gray>但是真™的热啊</font></ruby>（只有**一周**时间）<br><font color=red>**注意**！</font>军训，是会被<ruby>晒**黑**<rt>**嘿嘿**</ruby>的
 
 ### <br>时间
 开学后一周内
