@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-18T06:10:56.637Z
+date: 2023-08-18T06:14:25.631Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -181,7 +181,7 @@ I'm begging to have someone to help me finished this part...
 Still to be supplemented（Connect to the Editor）***
 
 ## <br>二楼
-#### 从左侧楼梯上去，分别是 小卖部 、书店 和 二楼食堂~<br>二楼在上课期间是锁着的<br><font color=gray>~（不知为什么，一个稚嫩的女声突然在你脑海中响起：前面的区域，以后再来探索吧!）~</font>当然也阻止不了同志们一颗
+#### 从左侧楼梯上去，分别是 小卖部 、书店 和 二楼食堂~<br>二楼在上课期间是锁着的<br><font color=gray>~（不知为什么，一个稚嫩的女声突然在你脑海中响起：前面的区域，以后再来探索吧!）~</font><br>当然也阻止不了同志们一颗向往吃，啊不，向往学习的心<span class="heimu">ps:有秘密通道</span>
 # 篇二·校园
 
 # 篇三·住宿
