@@ -2,7 +2,7 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-18T07:23:30.836Z
+date: 2023-08-18T07:25:01.629Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
@@ -187,6 +187,7 @@ Still to be supplemented（Connect to the Editor）***
 
 # 篇二·校园
 ## 校园建筑分布图
+看不清的同学们可以长按在新标签页中查看~
 ![宿中建筑分布图2023年版](https://s1.imagehub.cc/images/2023/08/18/2023.png)
 # 篇三·住宿
 
