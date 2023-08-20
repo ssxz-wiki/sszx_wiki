@@ -2,14 +2,14 @@
 title: 宿中生存指南I
 description: 由先行者们呕（磨）心（磨）沥（蹭）血（蹭）撰写而成
 published: true
-date: 2023-08-18T07:25:01.629Z
+date: 2023-08-20T05:58:16.028Z
 tags: 新高一, 指南
 editor: markdown
 dateCreated: 2023-07-26T02:34:23.716Z
 ---
 
 # 宿松中学 生存指南I
-+ 欢迎来到<ruby>**宿松中学**<rt><ruby>不 是<font color=red> 地 狱</font><rt><font color=orange>天 堂</font></ruby></ruby>**生存指南**！
++ 欢迎来到<ruby>**宿松中学**<rt><ruby>不 是<font color=red> 地 狱</font><rt><font color=orange>天 堂</font></ruby></ruby>**生存**<ruby>**指南**<rt>🧭🧭</ruby>！
 + 这是一个为新高一同学准备的宿中入坑指南,能够帮助同学们有效<u>**避坑**</u>
 
 版次：2023年8月版
@@ -53,7 +53,7 @@ dateCreated: 2023-07-26T02:34:23.716Z
   </b>
 </center>
 
-### <br>做些什么
+### <br>做些什么❔
 假期中，你将会收到一份邮政的包裹
 
 那么，恭喜获得：
@@ -69,11 +69,11 @@ dateCreated: 2023-07-26T02:34:23.716Z
 在课程的最后，群主会发起创作大比拼，各个组上都要协作完成几份以 “ 新学校——宿中 ” 为主题的作品（视频、PPT、图片集、一些小玩意等等）
 <span class="heimu" title="打工人">学委，你要振作啊o(╥﹏╥)o</span>
 
-### <br>“我可以不写那个暑假作业吗？”
+### <br>“我可以不写那个暑假作业吗？”😕😕😕
 - 首先，<span class=heimu title='你在想peach'>你在想peach</span>
 - 学习笔记要交到e网通的哦，学委会挑选出优秀的笔记晒到新生群里（每年最后新生群里都有几千张笔记的照片，不过实验班的同学们貌似不用）<span class=heimu>学委辛苦啦！ヾ(ｏ･ω･)ﾉ</span>
 - 学委的任务就是每天传传笔记，踹踹群里的尸体就行了
-- 最后每个组上交上去的作品是会评选的，<font color=red>**注意**</font>，前三名的组会发<font color=orange size=5 face=楷体>**奖品**</font><span class=heimu title=一般是和学委协商>具体奖品保密</span>！
+- 最后每个组上交上去的作品是会评选的，<font color=red>**注意**</font>，前三名的组会发<font color=orange size=5 face=楷体>**奖品**</font>🎁<span class=heimu title=一般是和学委协商>具体奖品保密</span>！
 (=ﾟωﾟ)ﾉ
 
 <font color=gray>ps:
@@ -183,12 +183,19 @@ Still to be supplemented（Connect to the Editor）***
 ## <br>二楼
 #### 从左侧楼梯上去，分别是 小卖部 、书店 和 二楼食堂~<br>二楼在上课期间是锁着的<br><font color=gray>~（不知为什么，一个稚嫩的女声突然在你脑海中响起：前面的区域，以后再来探索吧!）~</font><br>当然也阻止不了同志们一颗向往吃，啊不，向往学习的心<span class="heimu">ps:有秘密通道</span>
 
-#### 食堂菜谱
+### <br>食堂菜谱
+#### ...未出炉...
 
 # 篇二·校园
-## 校园建筑分布图
+## 校园建筑分布图🗺️
 看不清的同学们可以长按在新标签页中查看~
-![宿中建筑分布图2023年版](https://s1.imagehub.cc/images/2023/08/18/2023.png)
+![宿中建筑分布图2023年版](https://s1.imagehub.cc/images/2023/08/20/2023.png)
+
+## 教学楼
+#### 连体教学楼，整体上看起来像一个斜着的 " E " 。<br>由南向北分别为A、B、C楼，对应年级为高三、高二、高一<br><font color=gray>^（每年换年级不换教室）^</font><br>每层楼一般有 5 个班，由东向西，班级序号减小<br><font color=gray>^（实验班、重点班在最上层）^</font><br>最西侧有教师办公室<font color=gray>~（当然一般是班主任的）~</font><br>最东侧有厕所，男右女左<br>在西侧的过道可以到隔壁楼上去，东西侧都有楼梯<br>
+
+#### <br><font color=orange>温馨小提示</font>：楼管晚上会将教学楼一二层之间的楼梯给锁上<br>一般晚上十一点锁门，早上六点前开锁🔒<br>若是没开<br>那就是楼管睡着了🐶<span class=heimu> 一楼：关我什么事</span><br>
+
 # 篇三·住宿
 
 # 篇四·社团
