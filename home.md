@@ -1,8 +1,8 @@
 ---
-title: 宿松中学Wiki(施工中)
+title: 宿松中学Wiki  1.0版本
 description: 这是宿中的维基百科，供同学们交流和分享信息~ (*￣︶￣)~
 published: true
-date: 2023-08-30T12:12:31.383Z
+date: 2023-10-01T02:53:38.975Z
 tags: 宿松中学维基百科, 起始页
 editor: markdown
 dateCreated: 2023-07-25T07:24:32.774Z
